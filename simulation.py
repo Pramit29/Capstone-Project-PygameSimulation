@@ -342,8 +342,7 @@ def setTime():
                 elif(vclass=='ambulance'):
                     noOfAmbulances += 1       
     signals[nextGreen].red = signals[currentGreen].yellow+signals[currentGreen].green
-    greenTime = math.ceil(((noOfCars*carTime) + (noOfRickshaws*rickshawTime) + 
-    (noOfBuses*busTime) + (noOfTrucks*truckTime)+ (noOfBikes*bikeTime) + (noOfAmbulances*ambulanceTime))/(noOfLanes+1))
+    greenTime = math.ceil(((noOfCars*carTime) + (noOfRickshaws*rickshawTime) + (noOfBuses*busTime) + (noOfTrucks*truckTime)+ (noOfBikes*bikeTime) + (noOfAmbulances*ambulanceTime))/(noOfLanes+1))
     
     print('Green Time: ',greenTime)
     if(greenTime<defaultMinimum):
