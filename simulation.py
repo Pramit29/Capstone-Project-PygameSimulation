@@ -318,6 +318,7 @@ def setTime():
             if(ambTrack>maxamb):
                 maxamb = ambTrack
                 nextGreen = k
+            
 
     for j in range(len(vehicles[directionNumbers[nextGreen]][0])):
                 vehicle = vehicles[directionNumbers[nextGreen]][0][j]
