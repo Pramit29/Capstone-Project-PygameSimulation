@@ -25,11 +25,11 @@
 Pramit Deep Kaur - [Pramit29](https://github.com/Pramit29)
 
 Apurvi Garg - [ApurviGarg](https://github.com/ApurviGarg)
-<!--
+
 Japleen Kaur - [Japleen-16](https://github.com/Japleen-16)
 
 Shaurya Pratap Singh Bhadauria - [K-Rage](https://github.com/K-Rage)
--->
+
 ------------------------------------------
 
 ### License
